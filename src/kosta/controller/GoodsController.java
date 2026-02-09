@@ -4,6 +4,8 @@ public class GoodsController {
 
 	public static void main(String[] args) {
 		int i =0;
+		public voidtest(){
+			
 
 	}
 
