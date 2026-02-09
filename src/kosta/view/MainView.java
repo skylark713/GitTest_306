@@ -7,6 +7,8 @@ public class MainView {
 		System.out.println("수정");
 		System.out.println("test2");
 		System.out.println("test3");
+		
+		System.out.println("메인에 수정함");
 
 	}
 
