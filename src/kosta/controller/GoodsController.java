@@ -9,4 +9,8 @@ public class GoodsController {
 
 	}
 
+	public void selectAll(){
+
+	}
+
 }
